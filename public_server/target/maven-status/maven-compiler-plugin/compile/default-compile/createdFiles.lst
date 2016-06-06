@@ -1,0 +1,12 @@
+com\antteam\mapper\UserRoleMapper.class
+com\antteam\bean\UserRole.class
+com\antteam\bean\User.class
+com\antteam\mapper\OwnerResMapper.class
+com\antteam\bean\OwnerRes.class
+com\antteam\mapper\UserMapper.class
+com\anttam\service\IUserService.class
+com\antteam\mapper\ResourcesMapper.class
+com\antteam\bean\Role.class
+com\anttam\service\impl\UserServiceImpl.class
+com\antteam\bean\Resources.class
+com\antteam\mapper\RoleMapper.class
